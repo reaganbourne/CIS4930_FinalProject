@@ -35,3 +35,10 @@ interaction.
 - Provide a README file with clear instructions on how to set up, run, and use the application.
 - Include comments and documentation within the code to explain the logic and design
 decisions.
+
+FILE STRUCTURE:
+/src/myProject.py : main script containing all functions
+/data/ingredients.csv : CSV file containing available ingredients
+/data/preferences.json : JSON file containing user preferences and nutritional goals
+requirements.txt : list of required python packages
+test_myProject.py : unit tests for the project
