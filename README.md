@@ -38,7 +38,11 @@ decisions.
 
 FILE STRUCTURE:
 /src/myProject.py : main script containing all functions
+
 /data/ingredients.csv : CSV file containing available ingredients
+
 /data/preferences.json : JSON file containing user preferences and nutritional goals
+
 requirements.txt : list of required python packages
+
 test_myProject.py : unit tests for the project
